@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml"
+      xmlns:th="http://www.thymeleaf.org">
+<head>
+    <title>Pizza Cloud</title>
+</head>
+<body>
+<h1>Welcome to...</h1>
+<h3>Pizza Cloud!</h3>
+<img class="pizzaCloudLogo"  th:src="@{/images/PizzaCloud.png}"/>
+<form method="POST" th:action="@{/logout}">
+    <input type="submit" value="Logout"/>
+</form>
+</body>
+</html>

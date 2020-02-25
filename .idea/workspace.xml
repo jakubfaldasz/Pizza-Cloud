@@ -1,0 +1,165 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="df9afd07-1d67-4ec1-b190-4d2090cdfbad" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="CSS File" />
+        <option value="Interface" />
+        <option value="HTML File" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1Y7A55jrFXhINRLlFE25gKTYVcK" />
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/main/resources/templates" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="project.structure.last.edited" value="Libraries" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="com.jfaldasz.pizzacloud.data" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/main/resources/templates" />
+    </key>
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="com.jfaldasz.pizzacloud" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Spring Boot.PizzaCloudApplication">
+    <configuration name="DesignControllerTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="PizzaCloud" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.jfaldasz.pizzacloud.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.jfaldasz.pizzacloud" />
+      <option name="MAIN_CLASS_NAME" value="com.jfaldasz.pizzacloud.DesignControllerTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DesignControllerTest.testDesignPage (1)" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="PizzaCloud" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.jfaldasz.pizzacloud.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.jfaldasz.pizzacloud" />
+      <option name="MAIN_CLASS_NAME" value="com.jfaldasz.pizzacloud.DesignControllerTest" />
+      <option name="METHOD_NAME" value="testDesignPage" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DesignControllerTest.testDesignPage" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="PizzaCloud" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.jfaldasz.pizzacloud.data.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.jfaldasz.pizzacloud.data" />
+      <option name="MAIN_CLASS_NAME" value="com.jfaldasz.pizzacloud.data.DesignControllerTest" />
+      <option name="METHOD_NAME" value="testDesignPage" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="HomeControllerTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="PizzaCloud" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.jfaldasz.pizzacloud.web.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.jfaldasz.pizzacloud.data" />
+      <option name="MAIN_CLASS_NAME" value="com.jfaldasz.pizzacloud.data.HomeControllerTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PizzaCloudApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="PizzaCloud" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.jfaldasz.pizzacloud.PizzaCloudApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.DesignControllerTest" />
+        <item itemvalue="JUnit.DesignControllerTest.testDesignPage (1)" />
+        <item itemvalue="JUnit.DesignControllerTest.testDesignPage" />
+        <item itemvalue="JUnit.HomeControllerTest" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="df9afd07-1d67-4ec1-b190-4d2090cdfbad" name="Default Changelist" comment="" />
+      <created>1582283072189</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1582283072189</updated>
+      <workItem from="1582283073478" duration="5840000" />
+      <workItem from="1582294418355" duration="5817000" />
+      <workItem from="1582372870587" duration="2415000" />
+      <workItem from="1582382692147" duration="877000" />
+      <workItem from="1582531449288" duration="22216000" />
+      <workItem from="1582615269674" duration="12405000" />
+      <workItem from="1582638489825" duration="937000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+</project>
